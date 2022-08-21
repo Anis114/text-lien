@@ -1,0 +1,10 @@
+A React app in which you can manage and shortlist movies you watched or planning to watch
+components:
+MovieCard:post the movie
+MovieController:remove/add movie From WatchList,mark movie As Watched
+Navbar:name of the site and bottun of ADD to  add  a  movie  to  watchlist and  link to watchlist  and  link  to  watched movies
+ResultatCard:add the  filterd list of WatchList or watched ones
+wtachlist:map watch list
+watched: map  watched movies
+ADD:searching for movie to add
+lien:https://enchanting-dusk-530efb.netlify.app/
